@@ -1,0 +1,3 @@
+interface ColumnAliceAdapter {
+    void operateNew();
+}
